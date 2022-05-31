@@ -1,0 +1,16 @@
+{
+  "name": "webpack-use-issuer-dynamic-import",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack",
+    "debug": "node --inspect-brk node_modules/webpack-cli/bin/cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
